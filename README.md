@@ -1,2 +1,2 @@
-# Microsoft365-PowerFolder
-Repository of my current powershell scripts
+# PowerFolder
+Repository of my current powershell scripts (and some borderline wizardry)
